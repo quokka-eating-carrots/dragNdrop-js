@@ -1,0 +1,35 @@
+body {
+  background-color: #A0D9E2;
+}
+
+.fill {
+  background-image: url("http://source.unsplash.com/random/150x150");
+  position: relative;
+  height: 150px;
+  width: 150px;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+}
+
+.empty {
+  display: inline-block;
+  height: 160px;
+  width: 160px;
+  margin: 10px;
+  border: 3px #6AA3AC solid;
+  background-color: #fff;
+}
+
+.hold {
+  border: 4px #ccc solid;
+}
+
+.hovered {
+  background-color: #f4f4f4;
+  border-style: dashed; 
+}
+
+.invisible {
+  display: none;
+}
