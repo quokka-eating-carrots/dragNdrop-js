@@ -1,6 +1,7 @@
 # dragNdrop-js
 
 [참고 강의](https://youtu.be/C22hQKE_32c)
+[완성 페이지](https://frolicking-blini-c7233c.netlify.app/)
 
 ---
 
